@@ -1,0 +1,2 @@
+BOM（Bill of Material）物料清单，是计算机可以识别的产品结构数据文件，也是ERP的主导文件。BOM使系统识别产品结构，也是联系与沟通企业各项业务的纽带。ERP系统中的BOM的种类主要包括5类：缩排式BOM、汇总的BOM、反查用BOM、成本BOM、计划BOM。
+百度百科：BOM表https://baike.baidu.com/item/BOM%E8%A1%A8/7549010?fr=aladdin
